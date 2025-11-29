@@ -1,0 +1,17 @@
+# Virtual environment
+langchain-env
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# IDE files
+.vscode/
+.idea/
+
+# Env variables
+*.env
+

@@ -1,0 +1,164 @@
+{
+  "resume": "karunakaran_resume.pdf.pdf",
+  "jobDescription": "What You'll Do\n\nDesign, build, and maintain enterprise-grade Java applications\nDevelop scalable microservices using Spring, Hibernate, and modern Java frameworks\nOwn features end-to-end, from requirements to deployment\nOptimize application performance, ensure high availability, and solve real-world tech challenges\nContribute to CI/CD, clean code practices, and automation\nTech Stack & Skills\n\nJava, Spring Boot, Hibernate, REST APIs, JDBC\nSolid understanding of OOPs, design patterns, MVC, and JVM internals\nExperience with MySQL, MongoDB, Elasticsearch\nFamiliar with Git, Maven/Gradle, CI/CD tools\nBonus: Kafka, Redis, Aerospike, Play Framework",
+  "userQuery": "",
+  "generatedQuestions": [
+    {
+      "question": "Introduce yourself",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "Tell me about your project",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "Can you describe your experience with Spring Boot and how you have used it in your projects?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "What was your role in the development of the AdvocateBook project?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "Can you explain how you implemented OAuth 2.0 in your applications?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "What challenges did you face while integrating Spring with ELK stack?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "What are the key features of the microservices architecture you have worked with?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "How do you ensure the performance and scalability of your applications?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "Can you explain the role of Dependency Injection in Spring?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "What is the significance of using Circuit Breaker in microservices?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "How do you handle errors in your Spring Boot applications?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "Can you explain the difference between REST and SOAP APIs?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "How would you compare Spring Boot with other Java frameworks you have used?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "What are some common design patterns you have utilized in your projects?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "Can you describe a situation where you had to troubleshoot a performance issue in an application?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "How would you approach optimizing a slow-running query in MySQL?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "What steps do you take to ensure clean code practices in your projects?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "How do you manage version control in your projects?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "Can you discuss a project where you implemented CI/CD practices?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "What is your experience with using Git and CI/CD tools?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "How do you prioritize tasks when working on multiple projects?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "What do you think are the most important soft skills for a software developer?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "How do you stay updated with new technologies and industry trends?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "What are your career goals in the next 3-5 years?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "Do you have any questions for us?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    },
+    {
+      "question": "What motivates you to work in software development?",
+      "answer": "",
+      "answered": false,
+      "score": null
+    }
+  ],
+  "timestamp": "2025-10-04T10:47:43.591500"
+}
